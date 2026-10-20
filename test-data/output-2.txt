@@ -1,0 +1,3 @@
+SUCCESS  # <- GT4500
+SUCCESS  # <- TORPEDO
+FAIL  # <- TORPEDO becouse it has tried to fire from the secondary store
