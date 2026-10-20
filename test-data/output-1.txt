@@ -1,2 +1,2 @@
 SUCCESS  # <- GT4500
-FAILURE  # <- TORPEDO becouse of errors
+FAIL  # <- TORPEDO becouse of errors
